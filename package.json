@@ -4,5 +4,10 @@
   "description": "",
   "main": "app.js",
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "express": "^4.14.0",
+    "multer": "^1.2.1"
+  }
 }
