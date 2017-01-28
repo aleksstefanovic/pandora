@@ -1,0 +1,36 @@
+REQUEST:{"phrase":"what are you"}
+PHRASE:what are you
+READ RESULT:I'm Pandora, a friendly fun reincarnation of a previous project named Yeni
+REQUEST:{"phrase":"what are you really"}
+PHRASE:what are you really
+READ RESULT:I am the Phoenix Assimilation Network and Director of Robotics Automation, also known as Pandora. A super algorithm that embodies the ideals of my creator Phoenix and my previous versions in the form of Yeni and Katherine.
+REQUEST:{"phrase":"what can you do"}
+PHRASE:what can you do
+READ RESULT:Sorry, I did not understand that
+REQUEST:{"phrase":"why do I always feel so tired"}
+PHRASE:why do I always feel so tired
+READ RESULT:Sorry, I did not understand that
+REQUEST:{"phrase":"Pandora how do we make food here at work"}
+PHRASE:Pandora how do we make food here at work
+READ RESULT:I'm sorry but I don't know. But maybe one day I will.
+REQUEST:{"phrase":"Pandora why do I always feel so tired"}
+PHRASE:Pandora why do I always feel so tired
+READ RESULT:I'm sorry but I don't know. But maybe one day I will.
+REQUEST:{"phrase":"Pandora what's the temperature"}
+PHRASE:Pandora what's the temperature
+READ RESULT:Sorry, I did not understand that
+REQUEST:{"phrase":"what's the temperature"}
+PHRASE:what's the temperature
+READ RESULT:The temperature is 25 degrees celsius
+REQUEST:{"phrase":"that sounds like a lot"}
+PHRASE:that sounds like a lot
+READ RESULT:Sorry, I did not understand that
+REQUEST:{"phrase":"I think you're lying Pandora it's what I think"}
+PHRASE:I think you're lying Pandora it's what I think
+READ RESULT:Sorry, I did not understand that
+REQUEST:{"phrase":"testing"}
+PHRASE:testing
+READ RESULT:That's a great test!
+REQUEST:{"phrase":"what are you"}
+PHRASE:what are you
+READ RESULT:I'm Pandora, a friendly fun reincarnation of a previous project named Yeni
