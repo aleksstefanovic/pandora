@@ -34,3 +34,6 @@ READ RESULT:That's a great test!
 REQUEST:{"phrase":"what are you"}
 PHRASE:what are you
 READ RESULT:I'm Pandora, a friendly fun reincarnation of a previous project named Yeni
+REQUEST:{"phrase":"what are you really"}
+PHRASE:what are you really
+READ RESULT:I am the Phoenix Assimilation Network and Director of Robotics Automation, also known as Pandora. A super algorithm that embodies the ideals of my creator Phoenix and my previous versions in the form of Yeni and Katherine.

@@ -1,1 +1,1 @@
-forever -l log -o out.log -e err.log start app.js
+forever -al log -ao out.log -ae err.log start app.js
