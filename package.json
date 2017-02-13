@@ -7,7 +7,9 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.16.0",
-    "express": "^4.14.0",
-    "multer": "^1.2.1"
+    "express": "^4.14.1",
+    "multer": "^1.2.1",
+    "path": "^0.12.7",
+    "pg": "4.x"
   }
 }
